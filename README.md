@@ -1,12 +1,9 @@
-Movie Recommendation System
-using
-NLP Techniques
-
-Introduction
 The Movie Recommendation System is a Python-based project that suggests movies to
 users based on their preferences.
+
 The system leverages data from The Movie Database (TMDB) and utilizes machine learning
 and natural language processing (NLP) techniques to recommend similar movies.
+
 Additionally, it displays movie posters to enhance user experience.
 The system is deployed using Streamlit, a lightweight web application framework, and
 pickle for model storage.
@@ -71,19 +68,3 @@ integration of NLP techniques improves text-based similarity calculations. While
 recommendations are effective, future improvements can include hybrid filtering
 techniques and deep learning models to enhance accuracy.
 
-Conclusion
-This project demonstrates the implementation of a content-based movie recommendation
-system using Python, TMDB API, Streamlit, and NLP techniques.
-It offers an interactive platform where users can explore movies based on their
-preferences.
-Future enhancements could integrate collaborative filtering and sentiment analysis for
-better recommendations.
-Future Scope
-● Incorporating collaborative filtering for personalized recommendations.
-● Using deep learning models for improved similarity detection.
-● Enhancing the UI with additional features like user reviews and trailers.
-References
-● TMDB API Documentation
-● Scikit-learn Documentation
-● NLTK Documentation
-● Streamlit Documentation
